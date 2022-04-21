@@ -1,0 +1,30 @@
+.input-container{
+    text-align: left;
+}
+
+input{
+    margin-top: 0.5rem;
+    margin-left: 39%;
+}
+
+p{
+    color:green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.error{
+    margin:0;
+    margin-bottom: 0.25rem;
+    color:red;
+    font-size: 0.5rem;
+}
+
+button{
+    margin-top:3%;
+    width: 20%;
+    margin-left: 0%;
+}
+
+footer{
+    color: blue;
+    margin-top: 35%;
+}
